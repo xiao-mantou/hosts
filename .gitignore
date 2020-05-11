@@ -1,0 +1,14 @@
+# Microsoft Internet files
+*.ics
+
+# Microsoft TCP/IP files
+*.sam
+
+# Loal Network files
+networks
+
+# Internet Protocols files
+protocol
+
+#Well-Known Services Prot Numbers files
+services
