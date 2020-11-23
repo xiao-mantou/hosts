@@ -1,0 +1,14 @@
+#Test
+#Bilibili
+203.74.140.147 	upos-hz-mirrorakam.akamaized.net
+182.254.48.67	upos-sz-mirrorcos.bilivideo.com
+119.188.43.198 	upos-sz-mirrorhw.bilivideo.com
+119.188.42.199	upos-sz-mirrorhwb.bilivideo.com
+60.28.125.129	upos-sz-mirrorks3.bilivideo.com
+221.194.149.6	upos-sz-mirrorks3b.bilivideo.com
+101.72.202.216 	upos-sz-mirrorkodo.bilivideo.com
+47.246.59.232	upos-sz-mirrorkodob.bilivideo.com
+
+0.0.0.0	sdk.api.oaid.wocloud.cn#adaway-dnslog verified by github.com/jdlingyu/ad-wars
+0.0.0.0	miniapp.bilibili.com#ad-wars
+0.0.0.0	dataflow.biliapi.com
