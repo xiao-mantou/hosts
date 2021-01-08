@@ -7,7 +7,7 @@
 119.188.43.198	upos-sz-mirrorhw.bilivideo.com
 119.188.42.199	upos-sz-mirrorhwb.bilivideo.com
 60.28.125.129	upos-sz-mirrorks3.bilivideo.com
-221.194.149.6	upos-sz-mirrorks3b.bilivideo.com
+221.195.206.1	upos-sz-mirrorks3b.bilivideo.com
 101.72.202.216	upos-sz-mirrorkodo.bilivideo.com
 47.246.59.232	upos-sz-mirrorkodob.bilivideo.com
 164.52.44.50	app.bilibili.com
@@ -18,15 +18,18 @@
 #
 104.27.135.170	patch.chelpus.com
 185.199.109.153	topjohnwu.github.io
+185.199.109.154	github.githubassets.com
 13.233.43.20		codeload.github.com
 151.101.128.133	raw.githubusercontent.com
-13.234.210.38		github.com
+52.69.186.44		github.com
 23.200.75.106	heads4-ak-spotify-com.akamaized.net
 172.67.71.168   forum.mobilism.org
 172.67.71.168   images.mobilism.org
 172.67.71.168   mobilism.org
 172.67.138.107  mblservices.org
 172.253.118.188 alt6-mtalk.google.com
+218.11.11.221	image.coolapk.com
+119.167.157.136	api.coolapk.com
 
 #Wechat
 140.206.164.183	mp.weixin.qq.com
@@ -40,6 +43,7 @@
 0.0.0.0	miniapp.bilibili.com
 0.0.0.0	dataflow.biliapi.com
 0.0.0.0	cm.bilibili.com
+0.0.0.0	data.bilibili.com
 0.0.0.0	app.adjust.net.in
 0.0.0.0	hm.baidu.com
 0.0.0.0	zz.bdstatic.com
