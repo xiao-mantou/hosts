@@ -22,10 +22,23 @@
 185.199.109.154	github.githubassets.com
 52.68.31.213	codeload.github.com
 151.101.128.133	raw.githubusercontent.com
-52.69.186.44	github.com
+52.78.231.108	github.com
 140.82.121.5	api.github.com
 151.101.2.109	cdn.jsdelivr.net
-23.200.75.106	heads4-ak-spotify-com.akamaized.net
+#Spotify
+151.101.110.249	audio-fa.spotifycdn.com
+23.53.228.24	audio4-ak-spotify-com.akamaized.net
+23.53.228.24	audio-ak-spotify-com.akamaized.net
+23.200.75.117	heads4-ak-spotify-com.akamaized.net
+151.101.110.248	i.scdn.co
+151.101.110.248	misc.scdn.co
+151.101.110.248	newjams-images.scdn.co
+151.101.110.248	dailymix-images.scdn.co
+151.101.110.248	thisis-images.scdn.co
+151.101.110.248	charts-images.scdn.co
+151.101.110.248	seeded-session-images.scdn.co
+151.101.110.248	mosaic.scdn.co
+#
 172.67.71.168   forum.mobilism.org
 172.67.71.168   images.mobilism.org
 172.67.71.168   mobilism.org
