@@ -57,6 +57,7 @@ upos-sz-mirrorks3.bilivideo.com
 upos-sz-mirrorks3b.bilivideo.com
 upos-sz-mirrorkodo.bilivideo.com
 upos-sz-mirrorkodob.bilivideo.com
+upos-sz-mirrorkodoo1.bilivideo.com
 
 xxxx.bilivideo.com
 
@@ -76,6 +77,7 @@ s2.hdslb.com
 s3.hdslb.com
 
 live.bilibili.com
+xxxx.bilivideo.cn
 js.live-play.acgvideo.com
 ```
 ## Task List
